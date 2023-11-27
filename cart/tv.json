@@ -1,0 +1,28 @@
+[
+      {
+        "brand": "Sony",
+        "model": "Bravia X900F",
+        "size": 55,
+        "price": 999.99
+      },
+      {
+        "brand": "Samsung",
+        "model": "QLED Q70R",
+        "size": 65,
+        "price": 1499.99
+      },
+      {
+        "brand": "LG",
+        "model": "OLED C9",
+        "size": 55,
+        "price": 1299.99
+      },
+      {
+        "brand": "TCL",
+        "model": "6-Series",
+        "size": 50,
+        "price": 499.99
+      }
+    ]
+
+  
